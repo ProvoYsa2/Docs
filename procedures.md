@@ -3,6 +3,10 @@ title: Procedures
 ---
 Church policy is expressed in the [General Handbook](https://www.churchofjesuschrist.org/study/manual/general-handbook?lang=eng). These procedures are summaries on how the policies are applied in the Provo YSA 2nd Stake. When in doubt, consult the handbook.
 
+## General Notes
+
+When meeting with an individual to give them a call, it's important to discuss with them the responsibilities of the calling so that they know what they are agreeing to. Before the interview, it may be valuable to read the description of the calling and responsibilities in the [General Handbook](https://www.churchofjesuschrist.org/study/manual/general-handbook?lang=eng).
+
 ## Calling Ward Clerks and Ward Executive Secretaries
 
 1. The **bishop** selects the candidate and recommends him to the high councilor assigned to the ward.
@@ -11,10 +15,11 @@ Church policy is expressed in the [General Handbook](https://www.churchofjesusch
     * Typically this includes the **stake president** delegating responsibility to the high councilor to set the individual apart.
 4. The **stake clerk** notifies the high councilor once the calling is approved.
 5. The **high councilor** meets with the candidate and issues the calling.
-6. The **high councilor** conducts the sustaining during the Stake Business portion of Sacrament Meeting.
-7. The **high councilor** sets apart the new clerk or secretary. Typically, members of the bishopric attend.
-8. The **high councilor** notifies the **ward clerk** to record the new callings.
-9. The **ward clerk** records the new callings in LCR.
+6. The **high councilor** meets with the former holder of the calling and offers them the release (if they are still a member of the ward).
+7. The **high councilor** conducts Stake Business in Sacrament Meeting including the release of the previous person, with a vote of thanks, and sustaining the newly called person.
+8. The **high councilor** sets apart the new clerk or secretary. Typically, members of the bishopric attend.
+9. The **high councilor** notifies the **ward clerk** to record the new callings.
+10. The **ward clerk** records the new callings in LCR.
 
 ## Calling Elders Quorum Presidents
 
@@ -30,9 +35,10 @@ Church policy is expressed in the [General Handbook](https://www.churchofjesusch
 10. Upon approval, the **stake clerk** notifies the high councilor.
 11. The **high councilor** meets with each of the proposed counselors and issues the calling.
 12.	The **stake executive secretary** makes an appointment for the EQP and counselors to be set apart by the Stake President. The bishop and high councilor are invited to attend.
-13.	The **high councilor** sustains the EQP and counselors in sacrament meeting.
-14.	The **stake president** meets with the EQP and counselors to set them apart and provide training. As keys are involved, the stake president must set apart the new elders quorum president. He may delegate to his counselors or a high counselor to set apart the counselors.
-15. The **ward clerk** or **stake clerk** records the new callings in LCR.
+13. The **high councilor** meets with the former EQP and counselors and issues their release (if they are still members of the ward).
+14.	The **high councilor** conducts Stake Business in Sacrament Meeting including a vote of thanks for the prior elders quorum presidency and sustaining of the new EQP and counselors.
+15.	The **stake president** meets with the EQP and counselors to set them apart and provide training. As keys are involved, the stake president must set apart the new elders quorum president. He may delegate to his counselors or a high counselor to set apart the counselors.
+16. The **ward clerk** or **stake clerk** records the new callings in LCR.
 
 ## Calling New Counselors to an Existing Elders Quorum President
 
@@ -42,10 +48,11 @@ Church policy is expressed in the [General Handbook](https://www.churchofjesusch
     * Typically this includes the **stake president** delegating responsibility to the high councilor to set the individual apart.
 4. The **stake clerk** notifies the high councilor once the calling is approved.
 5. The **high councilor** meets with the candidate and issues the calling.
-6. The **high councilor** conducts the sustaining during the Stake Business portion of Sacrament Meeting.
-7. The **high councilor** sets apart the new counselor. Typically, the elders quorum president and bishopric attend.
-8. The **high councilor** notifies the **ward clerk** to record the new callings.
-9. The **ward clerk** records the new callings in LCR.
+6. The **high councilor** meets with the former counselor and issues his release (if he is still a member of the ward).
+7. The **high councilor** conducts the sustaining during the Stake Business portion of Sacrament Meeting.
+8. The **high councilor** sets apart the new counselor. Typically, the elders quorum president and bishopric attend.
+9. The **high councilor** notifies the **ward clerk** to record the new callings.
+10. The **ward clerk** records the new calling in LCR.
 
 ## Ordaining to the Priesthood
 
