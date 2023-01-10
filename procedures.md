@@ -74,12 +74,14 @@ When meeting with an individual to give them a call, it's important to discuss w
 ## Missionary Recommendations
 The process of recommending a missionary is managed in the [Missionary Online Recommendation System (MORS)](https://missionaryrecommendations.churchofjesuschrist.org). 
 
-When an individual expresses their interest in serving a mission, the bishop initiates the process using MORS and the process starts from there.
+When an individual expresses their interest in serving a mission, the bishop initiates the process using MORS and the process starts from there. The missionary candidate completes the online MORS forms, and obtains a physical and dental exam according to the instructions there.
 
-The bishop will receive the medical and dental evaluation forms. He should review the forms before passing them to the stake clerk for entry into MORS.
+The bishop will receive the medical and dental evaluation forms from the physician and dentist. He should review the forms and discuss any concerns with the missionary candidate. Then he passes the forms to the stake clerk for entry who transcribes the medical and dental forms into MORS.
 
 **Bishops,** please review the following before passing the recommendation on to the stake level:
 
 * Make sure that, in their photo, the candidate is wearing missionary attire as described in MORS.
 * If a psychological evaluation is indicated for any reason, please arrange that with **Church Family Services** and review the results before forwarding the recommendation to the stake level.
 * If there are special concerns or considerations, please discuss those with the stake president.
+
+Once the stake clerk transcries the medical and dental forms, he notifies the Stake Assistant Executive Secretary to make an appointment for the missionary candidate with the stake president.
