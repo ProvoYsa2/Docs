@@ -7,6 +7,8 @@ Church policy is expressed in the [General Handbook](https://www.churchofjesusch
 
 When meeting with an individual to give them a call, it's important to discuss with them the responsibilities of the calling so that they know what they are agreeing to. Before the interview, it may be valuable to read the description of the calling and responsibilities in the [General Handbook](https://www.churchofjesuschrist.org/study/manual/general-handbook?lang=eng).
 
+Per the [General Handbook](https://www.churchofjesuschrist.org/study/manual/general-handbook?lang=eng), when setting apart a person to a role that requires a high priest (such as bishop, bishopric councilor, or high councilor), only high priests should be in the circle. Likewise, when a man is ordained a high priest, only high priests may stand in the circle.
+
 ## Calling Ward Clerks and Ward Executive Secretaries
 
 1. The **bishop** selects the candidate and recommends him to the high councilor assigned to the ward.
@@ -64,7 +66,7 @@ When meeting with an individual to give them a call, it's important to discuss w
 6. The candidate is sustained. 
     1. When possible, a member of the **stake presidency** conducts the sustaining in Stake Conference.
     2. If there is not a conference upcoming then the **high councilor** assigned to his ward conducts the sustaining in his ward's Sacrament Meeting.
-7. The **high councilor** presides over the ordination and records the information on the ordination form: The date of the ordinance and who performed the ordinance including their member record number.
+7. The **high councilor** (or other person designated by the stake presidency) presides over the ordination and records the information on the ordination form: The date of the ordinance and who performed the ordinance including their member record number.
 8. The **high councilor** returns the ordination form to the stake clerk
 9. The **stake clerk** records the ordinance in LCR.
 10. The **stake clerk** prints the ordination certificate and has the stake president sign it.
