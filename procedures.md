@@ -73,17 +73,47 @@ Per the [General Handbook](https://www.churchofjesuschrist.org/study/manual/gene
 11. The **stake clerk** delivers the ordination certificate to the individual – either directly or by way of the high councilor.
 12.	If the individual was not sustained in stake conference, his ordination is ratified by a sustaining vote in the next stake conference.
 
+## Bishopric Counselors
+
+1. The **bishop** selects a potential new counselor and recommends him to the **stake president**.
+2. Once the **stake president** has reviewed the recommendation, the **stake clerk** circulates the candidate's name to the high council for approval.
+3. If the individual is an elder, which is usually the case, the **stake clerk** also asks the high council to sustain the individual to be ordained to the office of high priest.
+4. Once approval has been obtained, the **stake president, or counselor** meets with the individual and calls him to be a counselor in the bishopric.
+5. If he accepts the call, the **high councilor or stake presidency member** conducts the sustaining in the ward sacrament meeting. *This should include sustaining him to be ordained a high priest and to be a counselor in the bishopric.*
+6. The new counselor is ordained a high priest (see the procedures above). Typically this is done by **their father or a selected family member** and coordinated by a **high councilor or stake presidency member**.
+7. A **member of the stake presidency** (president or counselor) sets the individual apart as a counselor in the bishopric.
+
+## High Councilors
+
+1. The **stake president** consults his counselors and bishops to select a new high councilor.
+2. The **stake clerk** circulates the name of the prospective high councilor to the high council for approval.
+3. If the individual is an elder, which is usually the case, the **stake clerk** also asks the high council to sustain the individual to be ordained to the office of high priest.
+4. Once approval has been obtained, the **stake president, or counselor** meets with the individual and calls him to be a high councilor.
+5. In each ward in the stake a **high councilor or member of the stake presidency** conducts a sustaining vote for the new high councilor.
+6. The new counselor is ordained a high priest (see the procedures above). Typically this is done by **their father or a selected family member** and coordinated by a **high councilor or stake presidency member**.
+7. A **member of the stake presidency** (president or counselor) sets the individual apart.
+
+## Stake Leaders (Clerks, Executive Secretaries, Stake Relief Society Presidency, Stake Interview Coordinators, etc.)
+
+1. The **stake president** consults his counselors and bishops to select a person for the role.
+2. The **stake clerk** circulates the name of the individual to the high council for approval.
+3. Once approval has been obtained, the **stake president, or counselor** meets with the individual and offers the calling. For the stake relief society president, the **stake president** must issue the calling. For some callings, the stake president may assign a **high councilor** to issue the call. (See the handbook chart of callings.)
+5. In each ward in the stake a **high councilor or member of the stake presidency** conducts a sustaining vote for the new high councilor.
+7. A **member of the stake presidency** (president or counselor) sets the individual apart. For the stake relief society president, the **stake president** must set her apart. For some callings, the stake president may assign a **high councilor** to set them apart. (See the handbook chart of callings.)
+
 ## Missionary Recommendations
 The process of recommending a missionary is managed in the [Missionary Online Recommendation System (MORS)](https://missionaryrecommendations.churchofjesuschrist.org). 
 
 When an individual expresses their interest in serving a mission, the bishop initiates the process using MORS and the process starts from there. The missionary candidate completes the online MORS forms, and obtains a physical and dental exam according to the instructions there.
 
-The bishop will receive the medical and dental evaluation forms from the physician and dentist. He should review the forms and discuss any concerns with the missionary candidate. Then he passes the forms to the stake clerk for entry who transcribes the medical and dental forms into MORS.
+The bishop will receive the medical and dental evaluation forms from the physician and dentist. He should review the forms, *make sure they are complete*, and discuss any concerns with the missionary candidate. Then he passes the forms to the stake clerk for entry who transcribes the medical and dental forms into MORS.
 
 **Bishops,** please review the following before passing the recommendation on to the stake level:
 
 * Make sure that, in their photo, the candidate is wearing missionary attire as described in MORS.
+* When reviewing the medical and dental forms, make sure they are complete. Commonly missed items are: the vision screening, Tuberculosis screening, and "... any medication ... that might impair their ability to drive?". If there is any missing information the form, you or the missionary candidate will need to contact the physician.
 * If a psychological evaluation is indicated for any reason, please arrange that with **Church Family Services** and review the results before forwarding the recommendation to the stake level.
 * If there are special concerns or considerations, please discuss those with the stake president.
 
 Once the stake clerk transcries the medical and dental forms, he notifies the Stake Assistant Executive Secretary to make an appointment for the missionary candidate with the stake president.
+
