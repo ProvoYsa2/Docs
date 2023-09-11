@@ -3,7 +3,15 @@ title: Procedures
 ---
 Church policy is expressed in the [General Handbook](https://www.churchofjesuschrist.org/study/manual/general-handbook?lang=eng). These procedures are summaries on how the policies are applied in the Provo YSA 2nd Stake. When in doubt, consult the handbook.
 
-## General Notes
+## General Procedures and Guidelines
+
+The stake presidency and high council must approve callings of bishopric members and elders quorum presidency members. This includes bishopric counselors, clerks, and executive secretaries, elders quorum presidents and counselors. It does not include elders quorum secretaries or other ward or quorum callings. A stake representative such as a high councilor should issue the call and conduct the sustaining in sacrament meeting.
+
+The **weekly bulletin** has three important links related to callings:
+
+* Use the **Calling Request Form** to initiate callings that require stake approval. Usually, callings are initiated by the high councilor but bishops or counselors may also do so.
+* High Councilors use the **Stake Approval Spreadsheet** to approve callings and to record when individuals are called, sustained, ordained, and set apart. When a calling has been approved by a stake presidency member then you may meet with the individual to issue the call. If they accept, record the acceptance in the spreadsheet and it will be included in stake business on Sunday.
+* High Councilors check the **Stake Business Document** on Sunday mornings to find out about any stake business they should conduct that day.
 
 When meeting with an individual to give them a call, it's important to discuss with them the responsibilities of the calling so that they know what they are agreeing to. Before the interview, it may be valuable to read the description of the calling and responsibilities in the [General Handbook](https://www.churchofjesuschrist.org/study/manual/general-handbook?lang=eng).
 
