@@ -1,5 +1,5 @@
 ---
-Training from October 2023 General Conference
+title: Training from October 2023 General Conference
 ---
 During the days before general conference, the First Presidency and Quorum of the Twelve Apostles provide instruction to General Authorities, Area Seventies, and General Officers.  Some of that instruction is not published, but starting with the October 2023 conference, they decided that summaries of instruction from selected members of the Twelve be made available to all members. In addition, members of ward and stake councils have access to video of the instruction associated with these summaries.
 
